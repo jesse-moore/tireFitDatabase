@@ -1,4 +1,4 @@
 # Tire Fitment Guide
 ## Mockups
-* [Main Page](mockups/main_page.html)
-* [Example Vehicle Data](mockups/example_vehicles.html)
+* [Main Page](https://jesse-moore.github.io/tireFitDatabase/mockups/main_page.html)
+* [Example Vehicle Data](https://jesse-moore.github.io/tireFitDatabase/mockups/example_vehicles.html)
